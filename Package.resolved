@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-syntax-xcframeworks",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sjavora/swift-syntax-xcframeworks.git",
+      "state" : {
+        "revision" : "c98f5094499d4a91a35f30c53f3c5bf6bd74040e",
+        "version" : "509.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
